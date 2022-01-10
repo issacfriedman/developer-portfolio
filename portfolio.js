@@ -15,10 +15,8 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/",
-	instagram: "https://www.instagram.com/",
-	twitter: "https://twitter.com/",
-	github: "https://github.com/",
+	
+	github: "https://github.com/issacfriedman",
 	linkedin: "https://www.linkedin.com/in/issac-friedman-a9b35b1a3/",
 };
 
