@@ -19,7 +19,7 @@ export const socialLinks = {
 	instagram: "https://www.instagram.com/",
 	twitter: "https://twitter.com/",
 	github: "https://github.com/",
-	linkedin: "https://www.linkedin.com/in/issacfriedman/",
+	linkedin: "https://www.linkedin.com/in/issac-friedman-a9b35b1a3/",
 };
 
 export const skillsSection = {
